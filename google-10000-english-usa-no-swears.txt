@@ -6232,7 +6232,7 @@ pepper
 weapon
 luggage
 burden
-chef +
+chef
 tapes
 zones
 races
@@ -7530,7 +7530,7 @@ traditions
 fg
 jail
 safely
-finite
+finite +
 kidney
 periodically
 fixes
